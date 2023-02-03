@@ -1,2 +1,1 @@
-Hii Merge Conflict this is demo from develop 
-Managing conflicts
+Smit Resolved
